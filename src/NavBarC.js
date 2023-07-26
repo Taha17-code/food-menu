@@ -2,6 +2,8 @@ import React, { useState } from 'react'
 import './App.css';
 import { Form, Nav, Navbar,NavDropdown,Container, Row, } from 'react-bootstrap'
 
+import logoImage from './images/restaurant-vector-logo-menu.png'
+
 const NavBarC = ({SeachValue}) => {
 const [searchResult, UseSrhcState]=useState('')
 
@@ -20,7 +22,7 @@ function handleSubmit(e) {
 
     <Navbar  bg='dark' expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#"> <img src='./images/restaurant-vector-logo-menu.png' alt='not found' id='Logoimage'/> </Navbar.Brand>
+        <Navbar.Brand href="#"> <img src={logoImage} alt='not found' id='Logoimage'/> </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" className='NavCollapse'/>
         <Navbar.Collapse id="navbarScroll" variant="light">
           <Nav

@@ -1,8 +1,20 @@
-
+import  img1  from './images/mandiLunch.jpg'
+import  img2  from './images/بيتزا.jpg'
+import  img3  from './images/كبدة .jpg'
+import  img5  from './images/شكشوكة_بالجبن.jpg'
+import  img6  from './images/مضغوط-دجاج.jpg'
+import  img7  from './images/وجبة برقر.jpg'
+import  img8  from './images/-دجاج-مشويx510.jpg'
+import  img9  from "./images/بروست.jpg"
+import  img10  from "./images/وجبة-شاورما.png"
+import  img11  from "./images/سمك.jpg"
+import  img12  from "./images/فول.jpg"
+import  img13  from "./images/وجبة فلافل.jpg"
+import  img14  from "./images/السليق.jpg"
 const Food=[
   {
   id:"1",
-  image:"./images/mandiLunch.jpg",
+  image:img1,
   title:"رز - دجاج مندي",
   price:"25",
   categroy:"غداء"
@@ -11,7 +23,7 @@ const Food=[
 
 {
   id:"8",
-  image:"./images/بيتزا.jpg",
+  image:img2,
   title:"بيتزا",
   price:"30",
   categroy:"عشاء"
@@ -21,7 +33,7 @@ const Food=[
 
 {
   id:"11",
-  image:"./images/كبدة .jpg",
+  image:img3,
   title:"كبدة",
   price:"15",
   categroy:"فطور"
@@ -29,7 +41,7 @@ const Food=[
 },
 {
   id:"13",
-  image:"./images/شكشوكة_بالجبن.jpg",
+  image:img5,
   title:"شكشوكة",
   price:"10",
   categroy:"فطور"
@@ -37,7 +49,7 @@ const Food=[
 },
 {
   id:"5",
-  image:"./images/مضغوط-دجاج.jpg",
+  image:img6,
   title:"رز و دجاج مضغوط",
   price:"25",
   categroy:"غداء"
@@ -45,7 +57,7 @@ const Food=[
 },
 {
   id:"6",
-  image:"./images/وجبة برقر.jpg",
+  image:img7,
   title:"وجبة برقر",
   price:"19",
   categroy:"عشاء"
@@ -53,7 +65,7 @@ const Food=[
 },
 {
   id:"2",
-  image:"./images/-دجاج-مشويx510.jpg",
+  image:img8,
   title:"رز - دجاج شواية",
   price:"20",
   categroy:"غداء"
@@ -61,7 +73,7 @@ const Food=[
 },
 {
   id:"7",
-  image:"./images/بروست.jpg",
+  image:img9,
   title:"بروست",
   price:"25",
   categroy:"عشاء"
@@ -69,7 +81,7 @@ const Food=[
 },
 {
   id:"9",
-  image:"./images/وجبة-شاورما.png",
+  image:img10,
   title:"شاورما",
   price:"16",
   categroy:"عشاء"
@@ -77,7 +89,7 @@ const Food=[
 },
 {
   id:"4",
-  image:"./images/سمك.jpg",
+  image:img11,
   title:"سمك",
   price:"30",
   categroy:"غداء"
@@ -85,7 +97,7 @@ const Food=[
 },
 {
   id:"10",
-  image:"./images/فول.jpg",
+  image:img12,
   title:"فول",
   price:"10",
   categroy:"فطور"
@@ -94,7 +106,7 @@ const Food=[
 
 {
   id:"12",
-  image:"./images/وجبة فلافل.jpg",
+  image:img13,
   title:"طعمية",
   price:"10",
   categroy:"فطور"
@@ -102,7 +114,7 @@ const Food=[
 },
 {
   id:"3",
-  image:"./images/السليق.jpg",
+  image:img14,
   title:"رز -  سليق",
   price:"40",
   categroy:"غداء"
