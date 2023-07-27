@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/food-menu/static/css/main.81c74aff.css",
+    "main.js": "/food-menu/static/js/main.7b4c2a3b.js",
+    "static/media/وجبة-شاورما.png": "/food-menu/static/media/وجبة-شاورما.20963cffa7b3b31921ad.png",
+    "static/media/بيتزا.jpg": "/food-menu/static/media/بيتزا.873b5bcc3bccb4415e85.jpg",
+    "static/media/restaurant-vector-logo-menu.png": "/food-menu/static/media/restaurant-vector-logo-menu.37024c94f952ddf94112.png",
+    "static/media/mandiLunch.jpg": "/food-menu/static/media/mandiLunch.87c74395b1f148c0afc7.jpg",
+    "static/media/-دجاج-مشويx510.jpg": "/food-menu/static/media/-دجاج-مشويx510.c72f33dcbe53b85f27f5.jpg",
+    "static/media/بروست.jpg": "/food-menu/static/media/بروست.b13ca8bf07416034cab8.jpg",
+    "static/media/سمك.jpg": "/food-menu/static/media/سمك.8e6254eb26be85e890a8.jpg",
+    "static/media/مضغوط-دجاج.jpg": "/food-menu/static/media/مضغوط-دجاج.6473d6021bbd9e6f16a9.jpg",
+    "static/media/وجبة فلافل.jpg": "/food-menu/static/media/وجبة فلافل.e9c1d26e21b27134db89.jpg",
+    "static/media/السليق.jpg": "/food-menu/static/media/السليق.e480d9bf5eca516b90f5.jpg",
+    "static/media/فول.jpg": "/food-menu/static/media/فول.96c1d778a86cc735183a.jpg",
+    "static/media/وجبة برقر.jpg": "/food-menu/static/media/وجبة برقر.f398a5202553824cd598.jpg",
+    "static/media/شكشوكة_بالجبن.jpg": "/food-menu/static/media/شكشوكة_بالجبن.061096dff28efda184c8.jpg",
+    "static/media/كبدة .jpg": "/food-menu/static/media/كبدة .bd8884516a4905951b32.jpg",
+    "index.html": "/food-menu/index.html",
+    "main.81c74aff.css.map": "/food-menu/static/css/main.81c74aff.css.map",
+    "main.7b4c2a3b.js.map": "/food-menu/static/js/main.7b4c2a3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81c74aff.css",
+    "static/js/main.7b4c2a3b.js"
+  ]
+}
